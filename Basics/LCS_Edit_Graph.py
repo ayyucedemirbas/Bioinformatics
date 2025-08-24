@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 s1 = "GATTACA"
-s2 = "GCATGCU"
+s2 = "GCATGCA"
 m, n = len(s1), len(s2)
 
 # Compute LCS DP table
